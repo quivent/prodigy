@@ -1,0 +1,27 @@
+{
+  "name": "default",
+  "layout": "2x2",
+  "commands": [
+    {
+      "pane": 0,
+      "command": "",
+      "title": "Main"
+    },
+    {
+      "pane": 1,
+      "command": "",
+      "title": "Secondary"
+    },
+    {
+      "pane": 2,
+      "command": "",
+      "title": "Terminal"
+    },
+    {
+      "pane": 3,
+      "command": "",
+      "title": "Monitoring"
+    }
+  ],
+  "meta": {}
+}
