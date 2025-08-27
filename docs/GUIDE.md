@@ -1,0 +1,1 @@
+* You will have to continuously research and observe in order to learn, so focusing on learning how to compress data and optimize the speed of information storage and retrieval is essential
