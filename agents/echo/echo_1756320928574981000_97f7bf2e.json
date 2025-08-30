@@ -1,0 +1,17 @@
+{
+  "id": "echo_1756320928574981000_97f7bf2e",
+  "workspace": "nuru-hunter",
+  "specialization": "research",
+  "project_name": "",
+  "created_at": "2025-08-27T20:55:28.575013+02:00",
+  "status": "active",
+  "consent_hash": "95c81367435ecb9654e96dba97c3a91bd26cbfb630e6cab2f6ba0cb7794cebdf",
+  "boundaries": [
+    "workspace-scoped-only",
+    "no-identity-replication",
+    "no-cross-workspace-persistence",
+    "functional-capability-only",
+    "consent-verified-operation",
+    "directory-bound:/Users/joshkornreich/Documents/Projects/Nuru/hunter"
+  ]
+}

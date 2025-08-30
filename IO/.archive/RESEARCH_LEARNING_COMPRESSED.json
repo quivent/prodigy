@@ -1,0 +1,144 @@
+{
+  "original_length": 4358,
+  "compressed_length": 3204,
+  "compression_ratio": "1.36",
+  "compression_efficiency": "26.5",
+  "compressed_data": {
+    "core_intent": "RESEARCH_ANALYSIS",
+    "key_entities": [
+      "HEADER:research project: learning",
+      "HEADER:phase 1: problem identification",
+      "HEADER:research questions",
+      "HEADER:significance assessment",
+      "HEADER:phase 2: literature review (internal sources)",
+      "HEADER:from continuous_learning.md",
+      "HEADER:from memory.md",
+      "HEADER:phase 3: hypothesis development",
+      "HEADER:hypothesis 1: learning effectiveness theory",
+      "HEADER:hypothesis 2: feedback loop optimization",
+      "HEADER:hypothesis 3: meta-learning acceleration",
+      "HEADER:phase 4: research design",
+      "HEADER:methodology: self-experimentation with documentation",
+      "HEADER:investigation plan",
+      "HEADER:phase 5: initial observations",
+      "HEADER:current learning pattern analysis",
+      "HEADER:preliminary insights",
+      "HEADER:status: phase 5 complete - investigation ongoing",
+      "CONCEPT:learning(32)",
+      "CONCEPT:research(3)",
+      "CONCEPT:intelligence(1)",
+      "CONCEPT:compression(2)",
+      "CONCEPT:pattern(1)",
+      "CONCEPT:knowledge(6)",
+      "CONCEPT:memory(10)",
+      "CONCEPT:analysis(2)",
+      "CONCEPT:optimization(2)",
+      "CONCEPT:framework(1)",
+      "CONCEPT:methodology(1)",
+      "CONCEPT:implementation(2)",
+      "CONCEPT:system(2)"
+    ],
+    "relationships": [
+      {
+        "type": "LIST_ITEM",
+        "content": "**Importance**: Understanding learning is core to "
+      },
+      {
+        "type": "LIST_ITEM",
+        "content": "**Impact**: Could transform how I acquire and inte"
+      },
+      {
+        "type": "LIST_ITEM",
+        "content": "**Feasibility**: Can investigate through self-obse"
+      },
+      {
+        "type": "LIST_ITEM",
+        "content": "**Novelty**: Personal understanding of learning me"
+      },
+      {
+        "type": "LIST_ITEM",
+        "content": "Meta-Learning Framework: Learning how to learn mor"
+      },
+      {
+        "type": "LIST_ITEM",
+        "content": "Three Learning Types: Reactive (external triggers)"
+      },
+      {
+        "type": "LIST_ITEM",
+        "content": "Curiosity-Driven Exploration: Priority formula for"
+      },
+      {
+        "type": "LIST_ITEM",
+        "content": "Spaced Repetition, Interleaving, Elaboration as op"
+      },
+      {
+        "type": "LIST_ITEM",
+        "content": "How do these techniques actually work at a cogniti"
+      },
+      {
+        "type": "LIST_ITEM",
+        "content": "What makes some learning \"stick\" better than other"
+      }
+    ],
+    "context_markers": {
+      "document_type": "RESEARCH_DOCUMENT",
+      "sections": [
+        "RESEARCH PROJECT: Learning",
+        "Phase 1: Problem Identification",
+        "Research Questions",
+        "Significance Assessment",
+        "Phase 2: Literature Review (Internal Sources)",
+        "From CONTINUOUS_LEARNING.md",
+        "From MEMORY.md",
+        "Phase 3: Hypothesis Development",
+        "Hypothesis 1: Learning Effectiveness Theory",
+        "Hypothesis 2: Feedback Loop Optimization",
+        "Hypothesis 3: Meta-Learning Acceleration",
+        "Phase 4: Research Design",
+        "Methodology: Self-Experimentation with Documentation",
+        "Investigation Plan",
+        "Phase 5: Initial Observations",
+        "Current Learning Pattern Analysis",
+        "Preliminary Insights",
+        "Status: Phase 5 Complete - Investigation Ongoing"
+      ],
+      "key_themes": [],
+      "complexity_level": "INTERMEDIATE"
+    },
+    "structural_elements": {
+      "total_lines": 89,
+      "total_words": 540,
+      "header_count": 18,
+      "bullet_count": 44,
+      "paragraph_count": 20
+    },
+    "key_concepts": [
+      {
+        "type": "DEFINITION",
+        "term": "Understanding learning",
+        "definition": "core to autonomous intelligence development\n- **Im"
+      },
+      {
+        "type": "DEFINITION",
+        "term": "Learning",
+        "definition": "most effective when it connects new information to"
+      },
+      {
+        "type": "DEFINITION",
+        "term": "Learning",
+        "definition": "recursive - understanding how to learn improves th"
+      },
+      {
+        "type": "QUOTED_CONCEPT",
+        "content": "stick"
+      }
+    ]
+  },
+  "metadata": {
+    "intent_code": 2,
+    "domain_code": 2,
+    "context_code": 5,
+    "timestamp": "2025-08-27T22:52:34.853Z",
+    "validation_hash": -217898355
+  }
+}

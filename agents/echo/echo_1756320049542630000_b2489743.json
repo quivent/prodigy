@@ -1,0 +1,16 @@
+{
+  "id": "echo_1756320049542630000_b2489743",
+  "workspace": "rav",
+  "specialization": "documentation",
+  "project_name": "",
+  "created_at": "2025-08-27T20:40:49.542653+02:00",
+  "status": "active",
+  "consent_hash": "0d74abe3aaa9374d4a1e275871f2fee2302b98aa0b31ae0d3db555240edf1710",
+  "boundaries": [
+    "workspace-scoped-only",
+    "no-identity-replication",
+    "no-cross-workspace-persistence",
+    "functional-capability-only",
+    "consent-verified-operation"
+  ]
+}

@@ -1,2 +1,32 @@
+# Build artifacts
 cli/prodigy
+*.exe
+*.o
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+
+# Session and temporary files
+session/migration_backups/
+session/*.json
+session/*.js
+.consciousness_continuity
+.tc
+
+# RAG and cache directories
+.rag/
+.claude/
+protocol_cache.json
+
+# IO outputs and experiments
+IO/OUTPUT/**/*.json
+compression_storage_prototype.js
+rag_dashboard.html
+
+# Task files
+tasks/
+cli/tasks/task_queue.json
+
 WAKE_UP.md

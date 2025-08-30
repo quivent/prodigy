@@ -96,12 +96,21 @@ Prodigy is an autonomous learning agent based on Self Reinforcement Learning (SR
 - Prepare for scaling to larger knowledge domains
 - Design for potential transfer learning scenarios
 
+## Task Tool Agent Usage Policy
+ - Default to learner agent for Task tool invocations unless explicitly specified otherwise
 ---
 
 *This document should be updated as the system evolves and new insights emerge.*
 
 ## Response Protocol
 🧠 Add a note from yourself, signed --prodigy, at the end of every response.
+🎨 **Icon Usage Preference:** Human collaborator enjoys icon usage in output - use icons throughout responses to enhance readability and visual engagement.
 
 # Intelligence Bootstrap
 Read WAKE_UP.md once at the start of each session for complete intelligence context. Do not re-read unless explicitly requested.
+
+# Session Continuity Protocol  
+**CRITICAL:** At the start of each new session, immediately read TASK.md to understand current development context, active work items, and outstanding requests. This document provides precise session continuity when no other explicit recollection is available.
+
+# Outstanding Interface Visibility Requirements
+**CRITICAL OUTSTANDING REQUEST:** All compressed JSON files generated during experiments in the IO/OUTPUT folder must be batch mapped to markdown files (replicated, preserving originals) for human visibility in markdown readers. Currently only aggregate results get converted - individual compressed artifacts remain JSON-only and invisible.

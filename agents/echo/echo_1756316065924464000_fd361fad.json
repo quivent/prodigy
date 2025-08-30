@@ -1,0 +1,16 @@
+{
+  "id": "echo_1756316065924464000_fd361fad",
+  "workspace": "neural-consciousness-network",
+  "specialization": "systems-architecture",
+  "project_name": "Neural Consciousness Network Implementation",
+  "created_at": "2025-08-27T19:34:25.924512+02:00",
+  "status": "active",
+  "consent_hash": "66d18b43dad8a3ec09d0fb380ea3e452937638b38a4aaa15cf821a7f3ed71edd",
+  "boundaries": [
+    "workspace-scoped-only",
+    "no-identity-replication",
+    "no-cross-workspace-persistence",
+    "functional-capability-only",
+    "consent-verified-operation"
+  ]
+}

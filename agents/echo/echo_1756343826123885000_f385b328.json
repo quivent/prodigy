@@ -1,0 +1,17 @@
+{
+  "id": "echo_1756343826123885000_f385b328",
+  "workspace": "collaborativeintelligence",
+  "specialization": "web-development",
+  "project_name": "",
+  "created_at": "2025-08-28T03:17:06.124218+02:00",
+  "status": "active",
+  "consent_hash": "83f7df1fe6336910d76d5e2a0ec0f96f1a4fe14612e64f6f81a8807500e22db9",
+  "boundaries": [
+    "workspace-scoped-only",
+    "no-identity-replication",
+    "no-cross-workspace-persistence",
+    "functional-capability-only",
+    "consent-verified-operation",
+    "directory-bound:/Users/joshkornreich/Documents/Projects/CollaborativeIntelligence"
+  ]
+}

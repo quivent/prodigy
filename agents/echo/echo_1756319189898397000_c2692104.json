@@ -1,0 +1,16 @@
+{
+  "id": "echo_1756319189898397000_c2692104",
+  "workspace": "hunter",
+  "specialization": "research",
+  "project_name": "",
+  "created_at": "2025-08-27T20:26:29.898776+02:00",
+  "status": "active",
+  "consent_hash": "d01bf6d03189fd4ad6f5850a3b5d18b22495409a5e7a9c2af257c361ae80cc05",
+  "boundaries": [
+    "workspace-scoped-only",
+    "no-identity-replication",
+    "no-cross-workspace-persistence",
+    "functional-capability-only",
+    "consent-verified-operation"
+  ]
+}

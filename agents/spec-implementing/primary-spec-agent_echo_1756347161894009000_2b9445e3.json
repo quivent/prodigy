@@ -1,0 +1,35 @@
+{
+  "id": "echo_1756347161894009000_2b9445e3",
+  "name": "primary-spec-agent",
+  "created_at": "2025-08-28T04:12:41.894027+02:00",
+  "status": "active",
+  "processing_rate": 39,
+  "implementation_patterns": [
+    "web-api-rest",
+    "data-processing-etl",
+    "web-application-fullstack",
+    "ml-pipeline"
+  ],
+  "success_metrics": {
+    "comprehension_accuracy": 0,
+    "implementation_success": 0,
+    "average_time_minutes": 0,
+    "test_coverage": 0,
+    "total_implementations": 0
+  },
+  "validation_framework": {
+    "test_specifications": [],
+    "performance_thresholds": {
+      "comprehension_accuracy": 0.95,
+      "implementation_success": 0.9,
+      "test_coverage": 0.85
+    },
+    "quality_standards": [
+      "requirement_traceability",
+      "automated_testing",
+      "error_handling",
+      "documentation",
+      "security_compliance"
+    ]
+  }
+}

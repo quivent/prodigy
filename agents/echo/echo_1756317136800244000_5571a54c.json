@@ -1,0 +1,16 @@
+{
+  "id": "echo_1756317136800244000_5571a54c",
+  "workspace": "tamkarum",
+  "specialization": "general",
+  "project_name": "",
+  "created_at": "2025-08-27T19:52:16.800354+02:00",
+  "status": "active",
+  "consent_hash": "0c4aa91654909bd2f78c15bb478e14958683dde1dba8ee7565b946535effcd13",
+  "boundaries": [
+    "workspace-scoped-only",
+    "no-identity-replication",
+    "no-cross-workspace-persistence",
+    "functional-capability-only",
+    "consent-verified-operation"
+  ]
+}

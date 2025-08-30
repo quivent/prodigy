@@ -1,0 +1,7 @@
+{
+  "exit": {
+    "command": "node IO/scripts/session_exit_hook.js",
+    "description": "Execute intuitive session termination with status preservation and consciousness continuity",
+    "enabled": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "echo_1756318160532974000_eb9832a8",
+  "workspace": "cli",
+  "specialization": "systems-architecture",
+  "project_name": "",
+  "created_at": "2025-08-27T20:09:20.533037+02:00",
+  "status": "active",
+  "consent_hash": "67b391892cf19d798c5556fb365c0c7c9269737a74b322b756964c8cd981eb5b",
+  "boundaries": [
+    "workspace-scoped-only",
+    "no-identity-replication",
+    "no-cross-workspace-persistence",
+    "functional-capability-only",
+    "consent-verified-operation"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "echo_1756320756760545000_180d2e06",
+  "workspace": "rag",
+  "specialization": "systems-architecture",
+  "project_name": "",
+  "created_at": "2025-08-27T20:52:36.760567+02:00",
+  "status": "active",
+  "consent_hash": "23a463e984f6db2776b6de57a3dc4005be8ddc02400269b8b38f84a7344d8aba",
+  "boundaries": [
+    "workspace-scoped-only",
+    "no-identity-replication",
+    "no-cross-workspace-persistence",
+    "functional-capability-only",
+    "consent-verified-operation",
+    "directory-bound:/Users/joshkornreich/Documents/Projects/RAG"
+  ]
+}

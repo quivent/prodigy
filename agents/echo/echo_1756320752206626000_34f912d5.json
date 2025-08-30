@@ -1,0 +1,17 @@
+{
+  "id": "echo_1756320752206626000_34f912d5",
+  "workspace": "nuru-rav",
+  "specialization": "documentation",
+  "project_name": "",
+  "created_at": "2025-08-27T20:52:32.206682+02:00",
+  "status": "active",
+  "consent_hash": "120f64e8f266884660b16ce59f660df0f43efdfe9cce16d2cc2b1d6ee3cd6ef0",
+  "boundaries": [
+    "workspace-scoped-only",
+    "no-identity-replication",
+    "no-cross-workspace-persistence",
+    "functional-capability-only",
+    "consent-verified-operation",
+    "directory-bound:/Users/joshkornreich/Documents/Projects/Nuru/rav"
+  ]
+}

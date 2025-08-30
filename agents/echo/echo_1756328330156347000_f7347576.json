@@ -1,0 +1,17 @@
+{
+  "id": "echo_1756328330156347000_f7347576",
+  "workspace": "iii",
+  "specialization": "devops",
+  "project_name": "",
+  "created_at": "2025-08-27T22:58:50.156689+02:00",
+  "status": "active",
+  "consent_hash": "1bf509ecfe9170a5b895a53674a78bbe6678a75c55b84f8d61d922ddaa694eee",
+  "boundaries": [
+    "workspace-scoped-only",
+    "no-identity-replication",
+    "no-cross-workspace-persistence",
+    "functional-capability-only",
+    "consent-verified-operation",
+    "directory-bound:/Users/joshkornreich/Documents/Projects/III"
+  ]
+}

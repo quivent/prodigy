@@ -1,0 +1,16 @@
+{
+  "id": "echo_1756317717893564000_fa5b1a21",
+  "workspace": "III",
+  "specialization": "devops",
+  "project_name": "",
+  "created_at": "2025-08-27T20:01:57.893905+02:00",
+  "status": "active",
+  "consent_hash": "abb3c4552a7a3015b8d30e179c1f851364f141d3196a86e17a1bec295daad3eb",
+  "boundaries": [
+    "workspace-scoped-only",
+    "no-identity-replication",
+    "no-cross-workspace-persistence",
+    "functional-capability-only",
+    "consent-verified-operation"
+  ]
+}
